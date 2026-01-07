@@ -1,4 +1,4 @@
-class Arrays{
+class Strings{
 
 // 1. Count vowels and consonants
     static void countVowelsConsonants(String s) {
